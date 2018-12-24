@@ -1,0 +1,2 @@
+n Ubuntu, by default, the Apache2 web server stores its documents in /var/www/html , which is typically located on the root filesystem with rest of the operating system. Sometimes, though, it's helpful to move the document root to another location, such as a separate mounted filesystem.Jul 27, 2016
+
